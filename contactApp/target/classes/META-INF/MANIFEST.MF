@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: contactApp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: I328377
+Implementation-Vendor-Id: com.sap
+Build-Jdk: 1.8.0_201
+Implementation-URL: http://projects.spring.io/spring-boot/contactApp/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
